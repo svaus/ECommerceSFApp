@@ -1,2 +1,1 @@
-# ECommerceSFApp
-Service Fabric App
+# ServiceFabric
